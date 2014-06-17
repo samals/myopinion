@@ -1,4 +1,4 @@
 myopinion
 =========
 
-A personal website
+A personal website to experiment
